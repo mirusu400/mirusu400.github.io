@@ -1,9 +1,9 @@
 ---
-title: t3n4ci0us Christmas CTF 풀이
+title: t3n4ci0us Christmas CTF 풀이-1
 author:
   name: mirusu400
   link: https://github.com/mirusu400
-date: 2022-01-01 14:10:00 +0800
+date: 2022-01-01 15:10:00 +0800
 categories: [CTF]
 tags: [CTF]
 render_with_liquid: false
@@ -42,10 +42,10 @@ FindinFiles 를 통해 Flag를 쉽게 찾을수 있다.
 
 ## Feedback
 
-![](2021-12-25-22-26-25.png)
+![](/img/2022-01-01/2021-12-25-22-26-25.png)
 
 
-![](2021-12-25-22-26-51.png)
+![](/img/2022-01-01/2021-12-25-22-26-51.png)
 
 네이버 폼을 다 채우면 플래그가 나온다.
 
