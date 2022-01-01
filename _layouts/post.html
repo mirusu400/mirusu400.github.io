@@ -59,8 +59,9 @@ tail_includes:
     <div>
       <!-- published date -->
       <span>
-        {{ site.data.locales[lang].post.posted }}
         {% include timeago.html date=page.date tooltip=true %}
+        {{ site.data.locales[lang].post.posted }}
+        
       </span>
 
       <!-- lastmod date -->
